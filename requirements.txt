@@ -1,0 +1,34 @@
+# Core Dependencies
+ccxt==4.0.0
+python-dotenv==1.0.0
+pandas==2.0.0
+numpy==1.24.0
+
+# Technical Analysis
+ta-lib==0.4.28
+TA-Lib-Precompiled==1.0.9
+
+# Data & Visualization
+matplotlib==3.7.0
+seaborn==0.12.0
+
+# API & Web
+requests==2.31.0
+aiohttp==3.9.0
+
+# Database
+sqlalchemy==2.0.0
+sqlite3
+
+# Utilities
+pytz==2023.3
+pydantic==2.0.0
+
+# Testing
+pytest==7.4.0
+pytest-asyncio==0.21.0
+
+# Development
+black==23.0.0
+flake8==6.0.0
+pylint==3.0.0
